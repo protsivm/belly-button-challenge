@@ -1,4 +1,6 @@
 Module 14 Challenge 
 
-JS code --- ../static/js/app.js  
-html code --- ../index.html
+JS code at ---> ../static/js/app.js
+html code at ---> ../index.html
+
+page at ---> https://protsivm.github.io/belly-button-challenge/
